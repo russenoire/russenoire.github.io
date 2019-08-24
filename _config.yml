@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+remote_theme: thelehhman/plainwhite-jekyll
 permalink: /blog/:year/:month/:day/:title
 
 name: That Swaraj Life
