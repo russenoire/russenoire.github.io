@@ -1,2 +1,5 @@
 theme: jekyll-theme-modernist
 permalink: /blog/:year/:month/:day/:title
+
+name: That Swaraj Life
+markdown: kramdown
